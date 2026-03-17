@@ -4,3 +4,13 @@ The goal of this lab is to demonstrate gateway redundancy, which is something ev
 If a default gateway fails, users lose access to other networks. We solve this with the protocol:
 Hot Standby Router Protocol
 This lab will simulate redundant Layer-3 gateways in a campus network
+
+Inter-VLAN routing
+
+gateway redundancy
+
+first hop redundancy protocols
+
+failover testing
+
+enterprise network resilience
